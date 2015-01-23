@@ -8,4 +8,11 @@ public class MysteryClassOne {
 
     }
 
+    public static void main(String [] args){
+
+        MysteryClassOne x = new MysteryClassOne();
+
+        System.out.println( x.mysteryMethod() );
+
+    }
 }
