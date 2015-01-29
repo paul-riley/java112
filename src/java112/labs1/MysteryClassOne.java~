@@ -12,7 +12,7 @@ public class MysteryClassOne {
 
         MysteryClassOne x = new MysteryClassOne();
 
-        System.out.println(x.mysteryMethodOne());
+        System.out.println( x.mysteryMethod() );
 
     }
 }
